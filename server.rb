@@ -45,4 +45,4 @@ class Server
   end
 end
 
-server = Server.new("52.40.37.103", 3000)
+server = Server.new("172.31.20.123", 3000)
