@@ -45,4 +45,4 @@ class Server
   end
 end
 
-server = Server.new("localhost", 42169)
+server = Server.new("localhost", 3000)
